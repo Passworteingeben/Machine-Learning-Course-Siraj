@@ -1,1 +1,1 @@
-# Machine-Learning-Course-Siraj
+# Make-Money-with-Machine-Learning-Siraj-Raval-course
